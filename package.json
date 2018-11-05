@@ -1,0 +1,13 @@
+{
+  "name": "elm-http-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Brahayan Xavier Suárez Ramírez <i@boxtim.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.7.2"
+  },
+  "devDependencies": {
+    "node-elm-compiler": "^5.0.1"
+  }
+}
